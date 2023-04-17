@@ -1,0 +1,88 @@
+body {
+  background-color: bisque;
+}
+
+#navbarList {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  padding-right: 10px;
+  justify-content: right;
+  /* display: inline; */
+}
+
+
+li {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.myPic {
+  width: 100%;
+  border-radius: 100%;
+}
+
+.aboutMeContainer {
+  /* padding: 20px 20px 0px 20px; */
+  margin: 20px 0px 0px 15px;
+  padding: 2px;
+  width: 25%;
+  border-style: outset;
+}
+
+.header {
+  text-align: center;
+  background-color: lightgrey;
+  /* position: sticky; */
+}
+
+.navbar {
+  background-color: lightgrey;
+  text-align: right;
+  /* display: inline; */
+  position: sticky;
+  top: 0;
+  border: 2px outset black
+}
+
+.titleCard {
+  text-align: center;
+}
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
