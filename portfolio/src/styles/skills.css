@@ -1,0 +1,19 @@
+li {
+    list-style: none;
+}
+
+.container {
+    justify-content: center;
+    align-content: center;
+}
+
+
+.container {
+    margin: 20px 20px 0px 15px;
+    padding: 2px;
+    width: 50%;
+    border-style: outset;
+    float: right;
+    background-color: beige;
+  }
+  

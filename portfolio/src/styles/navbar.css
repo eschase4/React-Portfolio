@@ -1,0 +1,17 @@
+.navbar {
+    background-color: lightgrey;
+    text-align: right;
+    /* display: inline; */
+    position: sticky;
+    top: 0;
+    border: 2px outset black
+  }
+
+#navbarList {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    padding-right: 10px;
+    justify-content: right;
+    /* display: inline; */
+  }

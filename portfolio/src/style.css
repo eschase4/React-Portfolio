@@ -1,53 +1,32 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: bisque;
 }
-
-#navbarList {
-  list-style-type: none;
-  display: flex;
-  flex-direction: row;
-  padding-right: 10px;
-  justify-content: right;
-  /* display: inline; */
-}
-
 
 li {
   padding-left: 20px;
   padding-right: 20px;
 }
 
-.myPic {
-  width: 100%;
-  border-radius: 100%;
-}
-
-.aboutMeContainer {
-  /* padding: 20px 20px 0px 20px; */
-  margin: 20px 0px 0px 15px;
-  padding: 2px;
-  width: 25%;
-  border-style: outset;
-}
-
-.header {
-  text-align: center;
-  background-color: lightgrey;
-  /* position: sticky; */
-}
-
-.navbar {
-  background-color: lightgrey;
-  text-align: right;
-  /* display: inline; */
-  position: sticky;
-  top: 0;
-  border: 2px outset black
+#appContent {
+  display: flex;
+  margin: 10px 10px;
 }
 
 .titleCard {
   text-align: center;
 }
+
+
+
+
+
+
+
+
 /* .App {
   text-align: center;
 }

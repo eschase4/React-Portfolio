@@ -1,4 +1,5 @@
 import React from "react"; 
+import '../styles/navbar.css'
 
 function Navbar() {
     return (
@@ -6,7 +7,7 @@ function Navbar() {
             <ul id="navbarList">
                 <li><a href="#header">Top</a></li>
                 <li><a href="#projects">Projects</a></li>
-                <li><a href="#contacts">Contact</a></li>
+                <li><a href="#contact">Contact</a></li>
             </ul>
         </div>
     )
