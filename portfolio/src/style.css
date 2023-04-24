@@ -14,12 +14,18 @@ li {
 #appContent {
   display: flex;
   margin: 10px 10px;
+  width: 100%;
 }
 
 .titleCard {
   text-align: center;
 }
 
+#contactDetails {
+  display: flex;
+  margin: 10px 10px;
+  width: 100%;
+}
 
 
 

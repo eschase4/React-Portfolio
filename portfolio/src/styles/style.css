@@ -1,0 +1,15 @@
+#appContent {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#contentDetails {
+    display: flexbox;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.footer {
+    text-align: center;
+}

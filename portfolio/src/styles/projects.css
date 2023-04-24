@@ -3,14 +3,20 @@
 }
 
 .hide {
+    position: absolute;
+    z-index: 200;
     display: none;
+    
 }
-/* 
-.projectImage:hover {
-    fad
-} */
+
 .projectImage:hover + .hide {
     display: block;
+    /* animation: fadeIn 1s;
+    -webkit-animation: fadeIn 1s;
+    -moz-animation: fadeIn 1s;
+    -o-animation: fadeIn 1s;
+    -ms-animation: fadeIn 1s; */
+    
 }
 
 .projectContainer {
@@ -26,7 +32,7 @@
 .titleCard {
     text-align: center;
   }
-
+  
 .eachProject {
     width: 40%;
     margin: 20px 20px;
@@ -35,34 +41,38 @@
 }
 
 .projectList {
+  list-style:inherit;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }
 
 .overlay {
     z-index: -1;
-    height: 300px;
+    height: 299px;
     width: 400px;
-    bottom: -61px;
-    left: -45px;
+    bottom: -62px;
+    left: -15px;
     position: absolute;
     background-color: black;
-    /* opacity: 0.5; */
+    box-shadow: 3px;
+    opacity: 0.6;
+    
 }
 
 .project-text {
     z-index: 1;
-    width: 80%;
+    width: 65%;
     position: absolute;
-    bottom: 65px;
-    left: 65px;
+    bottom: 120px;
+    left: 100px;
     color: azure;
     font-family: monospace;
     font-size: 20px;
     text-shadow: -1px 1px 0 #000,
-                          1px 1px 0 #000,
-                         1px -1px 0 #000,
-                        -1px -1px 0 #000;
+    1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000;
 }
 
 
@@ -70,4 +80,3 @@ img {
     height: 300px;
     width: 400px;
 }
-  

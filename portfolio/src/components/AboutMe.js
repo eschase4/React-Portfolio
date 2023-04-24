@@ -4,14 +4,14 @@ import '../styles/aboutMe.css'
 
 function AboutMe() {
     return (
-        <div class="container">
-            <div class="titleCard">
+        <div className="container">
+            <div className="titleCard">
                 <h3>About Me</h3>
             </div>
-            <div class="aboutMeContent">
-                <img class="myPic" src={linkedIn} alt="Me standing there looking handsome"></img>
-                <div class="aboutMeText">
-                    <p>Hey! My name is Eli Chase and I am a Full Stack Web Developer. I am currently finishing up a Full Stack Bootcamp at
+            <div className="aboutMeContent">
+                <img className="myPic" src={linkedIn} alt="Me standing there looking handsome"></img>
+                <div className="aboutMeText">
+                    <p>Hey! My name is Eli Chase, I'm 26 years old, and I am a Full Stack Web Developer. I am currently finishing up a Full Stack Bootcamp at
                         The University Of Pennsylvania. I am proficient in JavaScript, and prefer to work on the back end and logic side of things.
                         However, I am also versed in CSS, HTML, Bootstrap, and React.js as well.
                     </p>

@@ -1,0 +1,22 @@
+ /* li {
+    list-style: none;
+} */
+
+/* .container {
+    margin: 20px 20px 0px 15px;
+    padding: 2px;
+    width: 1000px;
+    border-style: outset;
+    float: right;
+    background-color: beige;
+  } */
+
+ .logo {
+     height: 50px;
+     width: 50px;
+     margin-left: 30px;
+ }
+
+.socialLinks {
+    display: flex;
+}
