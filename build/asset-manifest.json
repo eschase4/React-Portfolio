@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d0b500bf.css",
-    "main.js": "/static/js/main.b973a97b.js",
-    "static/js/787.12e7f510.chunk.js": "/static/js/787.12e7f510.chunk.js",
+    "main.js": "/static/js/main.6e5c5318.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/propic.jpg": "/static/media/propic.471d78f32a9493a288a9.jpg",
     "static/media/Alabaster-Alligator_sc.png": "/static/media/Alabaster-Alligator_sc.e9a65aba308404ef0c74.png",
     "static/media/Eli-Chase-Resume.pdf": "/static/media/Eli-Chase-Resume.558e0056eeaf897fa707.pdf",
@@ -15,11 +15,11 @@
     "index.html": "/index.html",
     "static/media/facebook.svg": "/static/media/facebook.d0e6c35f87cabc4c3d016b72ba214d1f.svg",
     "main.d0b500bf.css.map": "/static/css/main.d0b500bf.css.map",
-    "main.b973a97b.js.map": "/static/js/main.b973a97b.js.map",
-    "787.12e7f510.chunk.js.map": "/static/js/787.12e7f510.chunk.js.map"
+    "main.6e5c5318.js.map": "/static/js/main.6e5c5318.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0b500bf.css",
-    "static/js/main.b973a97b.js"
+    "static/js/main.6e5c5318.js"
   ]
 }
