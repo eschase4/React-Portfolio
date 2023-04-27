@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.d0b500bf.css",
+    "main.js": "/React-Portfolio/static/js/main.7d2a7280.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/propic.jpg": "/React-Portfolio/static/media/propic.471d78f32a9493a288a9.jpg",
+    "static/media/Alabaster-Alligator_sc.png": "/React-Portfolio/static/media/Alabaster-Alligator_sc.e9a65aba308404ef0c74.png",
+    "static/media/Eli-Chase-Resume.pdf": "/React-Portfolio/static/media/Eli-Chase-Resume.558e0056eeaf897fa707.pdf",
+    "static/media/firstportfolio.png": "/React-Portfolio/static/media/firstportfolio.405ee24087aae83965d6.png",
+    "static/media/readme.png": "/React-Portfolio/static/media/readme.dc0cd28b3106099f02b7.png",
+    "static/media/myPlaylist.png": "/React-Portfolio/static/media/myPlaylist.0677851103d7d4269815.png",
+    "static/media/Forecast.png": "/React-Portfolio/static/media/Forecast.237d972c6729e484e647.png",
+    "static/media/github.svg": "/React-Portfolio/static/media/github.ebd452bf402237ef25876cdcac686676.svg",
+    "index.html": "/React-Portfolio/index.html",
+    "static/media/linkedin.svg": "/React-Portfolio/static/media/linkedin.93683c2cc3d5ca884dcf6c3525104a48.svg",
+    "static/media/facebook.svg": "/React-Portfolio/static/media/facebook.d0e6c35f87cabc4c3d016b72ba214d1f.svg",
+    "main.d0b500bf.css.map": "/React-Portfolio/static/css/main.d0b500bf.css.map",
+    "main.7d2a7280.js.map": "/React-Portfolio/static/js/main.7d2a7280.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0b500bf.css",
+    "static/js/main.7d2a7280.js"
+  ]
+}
