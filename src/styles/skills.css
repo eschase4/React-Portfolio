@@ -13,4 +13,15 @@ li {
     float: right;
     background-color: beige;
   }
-  
+
+.skillContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skillLogo {
+    height: 120px;
+    width: 120px;
+    align-self: center;
+}

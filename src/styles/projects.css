@@ -28,6 +28,7 @@
     /* float: right; */
     border-color: rgb(189, 209, 255);
     background-color: rgb(233, 239, 255);
+    border-radius: 20px;
 }
 
 .titleCard {

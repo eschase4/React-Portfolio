@@ -3,6 +3,7 @@
     padding: 2px;
     width: 50%;
     border-style: outset;
+    border-radius: 20px;
     float: right;
     border-color: rgb(189, 209, 255);
     background-color: rgb(233, 239, 255);
