@@ -4,7 +4,8 @@
     width: 50%;
     border-style: outset;
     float: right;
-    background-color: beige;
+    border-color: rgb(189, 209, 255);
+    background-color: rgb(233, 239, 255);
   }
   
 .titleCard {

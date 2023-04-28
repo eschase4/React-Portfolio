@@ -3,7 +3,9 @@ html {
 }
 
 body {
-  background-color: bisque;
+  /* background: rgb(129,63,251);
+background: linear-gradient(90deg, rgba(129,63,251,1) 36%, rgba(252,250,70,1) 100%); */
+background-color: azure;
 }
 
 li {
@@ -27,9 +29,10 @@ li {
   width: 100%;
 }
 
-
-
-
+body {
+  max-width: 3000px;
+  min-width: 1500px;
+}
 
 
 

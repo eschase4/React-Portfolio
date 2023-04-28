@@ -2,14 +2,15 @@
     list-style: none;
 } */
 
-/* .container {
+.container {
     margin: 20px 20px 0px 15px;
     padding: 2px;
     width: 1000px;
     border-style: outset;
     float: right;
-    background-color: beige;
-  } */
+    border-color: rgb(189, 209, 255);
+    background-color: rgb(233, 239, 255);
+  }
 
  .logo {
      height: 50px;
@@ -19,4 +20,9 @@
 
 .socialLinks {
     display: flex;
+}
+
+.socialsContainer {
+    border-color: rgb(189, 209, 255);
+    background-color: rgb(233, 239, 255);
 }

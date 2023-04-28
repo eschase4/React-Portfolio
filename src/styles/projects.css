@@ -26,7 +26,8 @@
     width: 96.59%;
     border-style: outset;
     /* float: right; */
-    background-color: beige;
+    border-color: rgb(189, 209, 255);
+    background-color: rgb(233, 239, 255);
 }
 
 .titleCard {
@@ -51,10 +52,10 @@
     z-index: -1;
     height: 299px;
     width: 400px;
-    bottom: -62px;
-    left: -15px;
+    bottom: -66px;
+    left: -18px;
     position: absolute;
-    background-color: black;
+    background-color: rgb(0, 7, 25);
     box-shadow: 3px;
     opacity: 0.6;
     
